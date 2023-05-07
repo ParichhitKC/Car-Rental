@@ -1,0 +1,1353 @@
+{
+  "Files": [
+    {
+      "Id": "I:\\Year3\\Application\\2nd sem\\HajurKoCarRental\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\HajurKoCarRental.bundle.scp.css",
+      "PackagePath": "staticwebassets\\HajurKoCarRental.bundle.scp.css"
+    },
+    {
+      "Id": "I:\\Year3\\Application\\2nd sem\\HajurKoCarRental\\wwwroot\\Document-Photo\\07edd560-5983-466b-8540-43708e5a1df5 umesh tripathi-Citizenship.jpg",
+      "PackagePath": "staticwebassets\\Document-Photo\\07edd560-5983-466b-8540-43708e5a1df5 umesh tripathi-Citizenship.jpg"
+    },
+    {
+      "Id": "I:\\Year3\\Application\\2nd sem\\HajurKoCarRental\\wwwroot\\Document-Photo\\221d29b2-a924-4025-b664-ea0f8059e40b utyr-License.jpg",
+      "PackagePath": "staticwebassets\\Document-Photo\\221d29b2-a924-4025-b664-ea0f8059e40b utyr-License.jpg"
+    },
+    {
+      "Id": "I:\\Year3\\Application\\2nd sem\\HajurKoCarRental\\wwwroot\\Document-Photo\\2bf95a0d-f681-4bfd-addf-0f8dedabd989 utyr-Citizenship.jpg",
+      "PackagePath": "staticwebassets\\Document-Photo\\2bf95a0d-f681-4bfd-addf-0f8dedabd989 utyr-Citizenship.jpg"
+    },
+    {
+      "Id": "I:\\Year3\\Application\\2nd sem\\HajurKoCarRental\\wwwroot\\Document-Photo\\2f1d0311-c39a-4b89-b9d3-9941bd08de68 umesh tripathi-License.jpg",
+      "PackagePath": "staticwebassets\\Document-Photo\\2f1d0311-c39a-4b89-b9d3-9941bd08de68 umesh tripathi-License.jpg"
+    },
+    {
+      "Id": "I:\\Year3\\Application\\2nd sem\\HajurKoCarRental\\wwwroot\\Document-Photo\\3ccb25ee-6352-4bcb-9a51-d01321304a99 Random Customer-License.jpg",
+      "PackagePath": "staticwebassets\\Document-Photo\\3ccb25ee-6352-4bcb-9a51-d01321304a99 Random Customer-License.jpg"
+    },
+    {
+      "Id": "I:\\Year3\\Application\\2nd sem\\HajurKoCarRental\\wwwroot\\Document-Photo\\3d1ca8ca-ce99-452f-9a7d-ef98b23eea67 unknown-Citizenship.png",
+      "PackagePath": "staticwebassets\\Document-Photo\\3d1ca8ca-ce99-452f-9a7d-ef98b23eea67 unknown-Citizenship.png"
+    },
+    {
+      "Id": "I:\\Year3\\Application\\2nd sem\\HajurKoCarRental\\wwwroot\\Document-Photo\\51f4efa3-70d1-492f-8d24-6cc5e7c55da6 Random Customer-Citizenship.jpg",
+      "PackagePath": "staticwebassets\\Document-Photo\\51f4efa3-70d1-492f-8d24-6cc5e7c55da6 Random Customer-Citizenship.jpg"
+    },
+    {
+      "Id": "I:\\Year3\\Application\\2nd sem\\HajurKoCarRental\\wwwroot\\Document-Photo\\64aed561-f37f-49b9-b63d-468bf77a14c5 umesh tripathi-License.jpg",
+      "PackagePath": "staticwebassets\\Document-Photo\\64aed561-f37f-49b9-b63d-468bf77a14c5 umesh tripathi-License.jpg"
+    },
+    {
+      "Id": "I:\\Year3\\Application\\2nd sem\\HajurKoCarRental\\wwwroot\\Document-Photo\\696ce7bc-42eb-4d85-8e7d-9cd37494a621 umesh tripathi-License.jpg",
+      "PackagePath": "staticwebassets\\Document-Photo\\696ce7bc-42eb-4d85-8e7d-9cd37494a621 umesh tripathi-License.jpg"
+    },
+    {
+      "Id": "I:\\Year3\\Application\\2nd sem\\HajurKoCarRental\\wwwroot\\Document-Photo\\69ad5aca-aa2d-42a8-8461-d3aad5cf7802 Random Customer-License.jpg",
+      "PackagePath": "staticwebassets\\Document-Photo\\69ad5aca-aa2d-42a8-8461-d3aad5cf7802 Random Customer-License.jpg"
+    },
+    {
+      "Id": "I:\\Year3\\Application\\2nd sem\\HajurKoCarRental\\wwwroot\\Document-Photo\\6fe2d220-a87e-4dc1-86d0-4b3f7bcb035c unknown-Citizenship.png",
+      "PackagePath": "staticwebassets\\Document-Photo\\6fe2d220-a87e-4dc1-86d0-4b3f7bcb035c unknown-Citizenship.png"
+    },
+    {
+      "Id": "I:\\Year3\\Application\\2nd sem\\HajurKoCarRental\\wwwroot\\Document-Photo\\736922f9-892e-4ec0-89ac-ea2574f1a519 utyr-License.jpg",
+      "PackagePath": "staticwebassets\\Document-Photo\\736922f9-892e-4ec0-89ac-ea2574f1a519 utyr-License.jpg"
+    },
+    {
+      "Id": "I:\\Year3\\Application\\2nd sem\\HajurKoCarRental\\wwwroot\\Document-Photo\\93668bde-463d-4aa6-ad9a-2f20813d4e3e kkkkk-License.jpg",
+      "PackagePath": "staticwebassets\\Document-Photo\\93668bde-463d-4aa6-ad9a-2f20813d4e3e kkkkk-License.jpg"
+    },
+    {
+      "Id": "I:\\Year3\\Application\\2nd sem\\HajurKoCarRental\\wwwroot\\Document-Photo\\97486c91-ba3b-435e-a688-5a30fb70530b unknown-Citizenship.png",
+      "PackagePath": "staticwebassets\\Document-Photo\\97486c91-ba3b-435e-a688-5a30fb70530b unknown-Citizenship.png"
+    },
+    {
+      "Id": "I:\\Year3\\Application\\2nd sem\\HajurKoCarRental\\wwwroot\\Document-Photo\\9f31074b-5bf6-4036-b29a-460bb7fd3565 umesh tripathi-Citizenship.jpg",
+      "PackagePath": "staticwebassets\\Document-Photo\\9f31074b-5bf6-4036-b29a-460bb7fd3565 umesh tripathi-Citizenship.jpg"
+    },
+    {
+      "Id": "I:\\Year3\\Application\\2nd sem\\HajurKoCarRental\\wwwroot\\Document-Photo\\a14a01ff-8c9a-499a-9a5f-ac06eae4863f acsads-License.jpg",
+      "PackagePath": "staticwebassets\\Document-Photo\\a14a01ff-8c9a-499a-9a5f-ac06eae4863f acsads-License.jpg"
+    },
+    {
+      "Id": "I:\\Year3\\Application\\2nd sem\\HajurKoCarRental\\wwwroot\\Document-Photo\\b47de14e-8271-4e61-867a-09e96340ed7b Random Customer-Citizenship.jpg",
+      "PackagePath": "staticwebassets\\Document-Photo\\b47de14e-8271-4e61-867a-09e96340ed7b Random Customer-Citizenship.jpg"
+    },
+    {
+      "Id": "I:\\Year3\\Application\\2nd sem\\HajurKoCarRental\\wwwroot\\Document-Photo\\beac5810-4b22-447a-9747-b9fc7f4bd0cf utyr-Citizenship.jpg",
+      "PackagePath": "staticwebassets\\Document-Photo\\beac5810-4b22-447a-9747-b9fc7f4bd0cf utyr-Citizenship.jpg"
+    },
+    {
+      "Id": "I:\\Year3\\Application\\2nd sem\\HajurKoCarRental\\wwwroot\\Document-Photo\\c1451ad7-f951-46c8-890f-805b79427b3f umesh tripathi-Citizenship.jpg",
+      "PackagePath": "staticwebassets\\Document-Photo\\c1451ad7-f951-46c8-890f-805b79427b3f umesh tripathi-Citizenship.jpg"
+    },
+    {
+      "Id": "I:\\Year3\\Application\\2nd sem\\HajurKoCarRental\\wwwroot\\Document-Photo\\c1d6033b-b7f6-47f2-aed9-e7d1df8029c9 unknown-License.png",
+      "PackagePath": "staticwebassets\\Document-Photo\\c1d6033b-b7f6-47f2-aed9-e7d1df8029c9 unknown-License.png"
+    },
+    {
+      "Id": "I:\\Year3\\Application\\2nd sem\\HajurKoCarRental\\wwwroot\\Document-Photo\\c7b4ff05-c6b0-4ed6-88e6-20e5ba80827d umesh tripathi-Citizenship.jpg",
+      "PackagePath": "staticwebassets\\Document-Photo\\c7b4ff05-c6b0-4ed6-88e6-20e5ba80827d umesh tripathi-Citizenship.jpg"
+    },
+    {
+      "Id": "I:\\Year3\\Application\\2nd sem\\HajurKoCarRental\\wwwroot\\Document-Photo\\ca76ef07-dd9e-4b18-8042-666bcfbf5ebc acsads-Citizenship.jpg",
+      "PackagePath": "staticwebassets\\Document-Photo\\ca76ef07-dd9e-4b18-8042-666bcfbf5ebc acsads-Citizenship.jpg"
+    },
+    {
+      "Id": "I:\\Year3\\Application\\2nd sem\\HajurKoCarRental\\wwwroot\\Document-Photo\\cb8944d7-f6b2-407e-8c3d-e4948b853619 Nabin Shrestha-Citizenship.jpg",
+      "PackagePath": "staticwebassets\\Document-Photo\\cb8944d7-f6b2-407e-8c3d-e4948b853619 Nabin Shrestha-Citizenship.jpg"
+    },
+    {
+      "Id": "I:\\Year3\\Application\\2nd sem\\HajurKoCarRental\\wwwroot\\Document-Photo\\cc0a846b-3aca-4ca6-abcd-430c16071ac9 umesh tripathi-License.jpg",
+      "PackagePath": "staticwebassets\\Document-Photo\\cc0a846b-3aca-4ca6-abcd-430c16071ac9 umesh tripathi-License.jpg"
+    },
+    {
+      "Id": "I:\\Year3\\Application\\2nd sem\\HajurKoCarRental\\wwwroot\\Document-Photo\\d23f07c3-0d8c-46d0-bf23-f66283a846ce kkkkk-Citizenship.jpg",
+      "PackagePath": "staticwebassets\\Document-Photo\\d23f07c3-0d8c-46d0-bf23-f66283a846ce kkkkk-Citizenship.jpg"
+    },
+    {
+      "Id": "I:\\Year3\\Application\\2nd sem\\HajurKoCarRental\\wwwroot\\Document-Photo\\d3fe59f0-e349-4aa1-ae6d-44c1a9034e62 unknown-License.png",
+      "PackagePath": "staticwebassets\\Document-Photo\\d3fe59f0-e349-4aa1-ae6d-44c1a9034e62 unknown-License.png"
+    },
+    {
+      "Id": "I:\\Year3\\Application\\2nd sem\\HajurKoCarRental\\wwwroot\\Document-Photo\\e3ba1542-b230-4508-8161-af64e48b026a unknown-License.png",
+      "PackagePath": "staticwebassets\\Document-Photo\\e3ba1542-b230-4508-8161-af64e48b026a unknown-License.png"
+    },
+    {
+      "Id": "I:\\Year3\\Application\\2nd sem\\HajurKoCarRental\\wwwroot\\Document-Photo\\eac3af04-fa47-42e9-8126-060c005fa860 hgfdhgf-Citizenship.jpg",
+      "PackagePath": "staticwebassets\\Document-Photo\\eac3af04-fa47-42e9-8126-060c005fa860 hgfdhgf-Citizenship.jpg"
+    },
+    {
+      "Id": "I:\\Year3\\Application\\2nd sem\\HajurKoCarRental\\wwwroot\\Document-Photo\\f30bb1f8-8217-46c8-ac95-21cdcf391c55 umesh tripathi-Citizenship.jpg",
+      "PackagePath": "staticwebassets\\Document-Photo\\f30bb1f8-8217-46c8-ac95-21cdcf391c55 umesh tripathi-Citizenship.jpg"
+    },
+    {
+      "Id": "I:\\Year3\\Application\\2nd sem\\HajurKoCarRental\\wwwroot\\assets\\css\\material-kit.css",
+      "PackagePath": "staticwebassets\\assets\\css\\material-kit.css"
+    },
+    {
+      "Id": "I:\\Year3\\Application\\2nd sem\\HajurKoCarRental\\wwwroot\\assets\\css\\material-kit.css.map",
+      "PackagePath": "staticwebassets\\assets\\css\\material-kit.css.map"
+    },
+    {
+      "Id": "I:\\Year3\\Application\\2nd sem\\HajurKoCarRental\\wwwroot\\assets\\css\\material-kit.min.css",
+      "PackagePath": "staticwebassets\\assets\\css\\material-kit.min.css"
+    },
+    {
+      "Id": "I:\\Year3\\Application\\2nd sem\\HajurKoCarRental\\wwwroot\\assets\\css\\nucleo-icons.css",
+      "PackagePath": "staticwebassets\\assets\\css\\nucleo-icons.css"
+    },
+    {
+      "Id": "I:\\Year3\\Application\\2nd sem\\HajurKoCarRental\\wwwroot\\assets\\css\\nucleo-svg.css",
+      "PackagePath": "staticwebassets\\assets\\css\\nucleo-svg.css"
+    },
+    {
+      "Id": "I:\\Year3\\Application\\2nd sem\\HajurKoCarRental\\wwwroot\\assets\\fonts\\nucleo-icons.eot",
+      "PackagePath": "staticwebassets\\assets\\fonts\\nucleo-icons.eot"
+    },
+    {
+      "Id": "I:\\Year3\\Application\\2nd sem\\HajurKoCarRental\\wwwroot\\assets\\fonts\\nucleo-icons.svg",
+      "PackagePath": "staticwebassets\\assets\\fonts\\nucleo-icons.svg"
+    },
+    {
+      "Id": "I:\\Year3\\Application\\2nd sem\\HajurKoCarRental\\wwwroot\\assets\\fonts\\nucleo-icons.ttf",
+      "PackagePath": "staticwebassets\\assets\\fonts\\nucleo-icons.ttf"
+    },
+    {
+      "Id": "I:\\Year3\\Application\\2nd sem\\HajurKoCarRental\\wwwroot\\assets\\fonts\\nucleo-icons.woff",
+      "PackagePath": "staticwebassets\\assets\\fonts\\nucleo-icons.woff"
+    },
+    {
+      "Id": "I:\\Year3\\Application\\2nd sem\\HajurKoCarRental\\wwwroot\\assets\\fonts\\nucleo-icons.woff2",
+      "PackagePath": "staticwebassets\\assets\\fonts\\nucleo-icons.woff2"
+    },
+    {
+      "Id": "I:\\Year3\\Application\\2nd sem\\HajurKoCarRental\\wwwroot\\assets\\fonts\\nucleo.eot",
+      "PackagePath": "staticwebassets\\assets\\fonts\\nucleo.eot"
+    },
+    {
+      "Id": "I:\\Year3\\Application\\2nd sem\\HajurKoCarRental\\wwwroot\\assets\\fonts\\nucleo.ttf",
+      "PackagePath": "staticwebassets\\assets\\fonts\\nucleo.ttf"
+    },
+    {
+      "Id": "I:\\Year3\\Application\\2nd sem\\HajurKoCarRental\\wwwroot\\assets\\fonts\\nucleo.woff",
+      "PackagePath": "staticwebassets\\assets\\fonts\\nucleo.woff"
+    },
+    {
+      "Id": "I:\\Year3\\Application\\2nd sem\\HajurKoCarRental\\wwwroot\\assets\\fonts\\nucleo.woff2",
+      "PackagePath": "staticwebassets\\assets\\fonts\\nucleo.woff2"
+    },
+    {
+      "Id": "I:\\Year3\\Application\\2nd sem\\HajurKoCarRental\\wwwroot\\assets\\img\\apple-icon.png",
+      "PackagePath": "staticwebassets\\assets\\img\\apple-icon.png"
+    },
+    {
+      "Id": "I:\\Year3\\Application\\2nd sem\\HajurKoCarRental\\wwwroot\\assets\\img\\bg.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\bg.jpg"
+    },
+    {
+      "Id": "I:\\Year3\\Application\\2nd sem\\HajurKoCarRental\\wwwroot\\assets\\img\\bg0.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\bg0.jpg"
+    },
+    {
+      "Id": "I:\\Year3\\Application\\2nd sem\\HajurKoCarRental\\wwwroot\\assets\\img\\bg10.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\bg10.jpg"
+    },
+    {
+      "Id": "I:\\Year3\\Application\\2nd sem\\HajurKoCarRental\\wwwroot\\assets\\img\\bg2.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\bg2.jpg"
+    },
+    {
+      "Id": "I:\\Year3\\Application\\2nd sem\\HajurKoCarRental\\wwwroot\\assets\\img\\bg3.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\bg3.jpg"
+    },
+    {
+      "Id": "I:\\Year3\\Application\\2nd sem\\HajurKoCarRental\\wwwroot\\assets\\img\\bg5.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\bg5.jpg"
+    },
+    {
+      "Id": "I:\\Year3\\Application\\2nd sem\\HajurKoCarRental\\wwwroot\\assets\\img\\bg9.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\bg9.jpg"
+    },
+    {
+      "Id": "I:\\Year3\\Application\\2nd sem\\HajurKoCarRental\\wwwroot\\assets\\img\\bruce-mars.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\bruce-mars.jpg"
+    },
+    {
+      "Id": "I:\\Year3\\Application\\2nd sem\\HajurKoCarRental\\wwwroot\\assets\\img\\city-profile.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\city-profile.jpg"
+    },
+    {
+      "Id": "I:\\Year3\\Application\\2nd sem\\HajurKoCarRental\\wwwroot\\assets\\img\\down-arrow-dark.svg",
+      "PackagePath": "staticwebassets\\assets\\img\\down-arrow-dark.svg"
+    },
+    {
+      "Id": "I:\\Year3\\Application\\2nd sem\\HajurKoCarRental\\wwwroot\\assets\\img\\down-arrow-white.svg",
+      "PackagePath": "staticwebassets\\assets\\img\\down-arrow-white.svg"
+    },
+    {
+      "Id": "I:\\Year3\\Application\\2nd sem\\HajurKoCarRental\\wwwroot\\assets\\img\\down-arrow.svg",
+      "PackagePath": "staticwebassets\\assets\\img\\down-arrow.svg"
+    },
+    {
+      "Id": "I:\\Year3\\Application\\2nd sem\\HajurKoCarRental\\wwwroot\\assets\\img\\examples\\blog-9-4.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\examples\\blog-9-4.jpg"
+    },
+    {
+      "Id": "I:\\Year3\\Application\\2nd sem\\HajurKoCarRental\\wwwroot\\assets\\img\\examples\\blog2.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\examples\\blog2.jpg"
+    },
+    {
+      "Id": "I:\\Year3\\Application\\2nd sem\\HajurKoCarRental\\wwwroot\\assets\\img\\examples\\testimonial-6-2.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\examples\\testimonial-6-2.jpg"
+    },
+    {
+      "Id": "I:\\Year3\\Application\\2nd sem\\HajurKoCarRental\\wwwroot\\assets\\img\\examples\\testimonial-6-3.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\examples\\testimonial-6-3.jpg"
+    },
+    {
+      "Id": "I:\\Year3\\Application\\2nd sem\\HajurKoCarRental\\wwwroot\\assets\\img\\favicon.png",
+      "PackagePath": "staticwebassets\\assets\\img\\favicon.png"
+    },
+    {
+      "Id": "I:\\Year3\\Application\\2nd sem\\HajurKoCarRental\\wwwroot\\assets\\img\\illustrations\\illustration-signin.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\illustrations\\illustration-signin.jpg"
+    },
+    {
+      "Id": "I:\\Year3\\Application\\2nd sem\\HajurKoCarRental\\wwwroot\\assets\\img\\ivana-square.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\ivana-square.jpg"
+    },
+    {
+      "Id": "I:\\Year3\\Application\\2nd sem\\HajurKoCarRental\\wwwroot\\assets\\img\\ivana-squares.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\ivana-squares.jpg"
+    },
+    {
+      "Id": "I:\\Year3\\Application\\2nd sem\\HajurKoCarRental\\wwwroot\\assets\\img\\logo-ct-dark.png",
+      "PackagePath": "staticwebassets\\assets\\img\\logo-ct-dark.png"
+    },
+    {
+      "Id": "I:\\Year3\\Application\\2nd sem\\HajurKoCarRental\\wwwroot\\assets\\img\\logos\\gray-logos\\logo-apple.svg",
+      "PackagePath": "staticwebassets\\assets\\img\\logos\\gray-logos\\logo-apple.svg"
+    },
+    {
+      "Id": "I:\\Year3\\Application\\2nd sem\\HajurKoCarRental\\wwwroot\\assets\\img\\logos\\gray-logos\\logo-coinbase.svg",
+      "PackagePath": "staticwebassets\\assets\\img\\logos\\gray-logos\\logo-coinbase.svg"
+    },
+    {
+      "Id": "I:\\Year3\\Application\\2nd sem\\HajurKoCarRental\\wwwroot\\assets\\img\\logos\\gray-logos\\logo-digitalocean.svg",
+      "PackagePath": "staticwebassets\\assets\\img\\logos\\gray-logos\\logo-digitalocean.svg"
+    },
+    {
+      "Id": "I:\\Year3\\Application\\2nd sem\\HajurKoCarRental\\wwwroot\\assets\\img\\logos\\gray-logos\\logo-facebook.svg",
+      "PackagePath": "staticwebassets\\assets\\img\\logos\\gray-logos\\logo-facebook.svg"
+    },
+    {
+      "Id": "I:\\Year3\\Application\\2nd sem\\HajurKoCarRental\\wwwroot\\assets\\img\\logos\\gray-logos\\logo-nasa.svg",
+      "PackagePath": "staticwebassets\\assets\\img\\logos\\gray-logos\\logo-nasa.svg"
+    },
+    {
+      "Id": "I:\\Year3\\Application\\2nd sem\\HajurKoCarRental\\wwwroot\\assets\\img\\logos\\gray-logos\\logo-netflix.svg",
+      "PackagePath": "staticwebassets\\assets\\img\\logos\\gray-logos\\logo-netflix.svg"
+    },
+    {
+      "Id": "I:\\Year3\\Application\\2nd sem\\HajurKoCarRental\\wwwroot\\assets\\img\\logos\\gray-logos\\logo-pinterest.svg",
+      "PackagePath": "staticwebassets\\assets\\img\\logos\\gray-logos\\logo-pinterest.svg"
+    },
+    {
+      "Id": "I:\\Year3\\Application\\2nd sem\\HajurKoCarRental\\wwwroot\\assets\\img\\logos\\gray-logos\\logo-spotify.svg",
+      "PackagePath": "staticwebassets\\assets\\img\\logos\\gray-logos\\logo-spotify.svg"
+    },
+    {
+      "Id": "I:\\Year3\\Application\\2nd sem\\HajurKoCarRental\\wwwroot\\assets\\img\\logos\\gray-logos\\logo-vodafone.svg",
+      "PackagePath": "staticwebassets\\assets\\img\\logos\\gray-logos\\logo-vodafone.svg"
+    },
+    {
+      "Id": "I:\\Year3\\Application\\2nd sem\\HajurKoCarRental\\wwwroot\\assets\\img\\macbook.png",
+      "PackagePath": "staticwebassets\\assets\\img\\macbook.png"
+    },
+    {
+      "Id": "I:\\Year3\\Application\\2nd sem\\HajurKoCarRental\\wwwroot\\assets\\img\\shapes\\waves-white.svg",
+      "PackagePath": "staticwebassets\\assets\\img\\shapes\\waves-white.svg"
+    },
+    {
+      "Id": "I:\\Year3\\Application\\2nd sem\\HajurKoCarRental\\wwwroot\\assets\\img\\team-1.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\team-1.jpg"
+    },
+    {
+      "Id": "I:\\Year3\\Application\\2nd sem\\HajurKoCarRental\\wwwroot\\assets\\img\\team-2.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\team-2.jpg"
+    },
+    {
+      "Id": "I:\\Year3\\Application\\2nd sem\\HajurKoCarRental\\wwwroot\\assets\\img\\team-3.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\team-3.jpg"
+    },
+    {
+      "Id": "I:\\Year3\\Application\\2nd sem\\HajurKoCarRental\\wwwroot\\assets\\img\\team-4.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\team-4.jpg"
+    },
+    {
+      "Id": "I:\\Year3\\Application\\2nd sem\\HajurKoCarRental\\wwwroot\\assets\\img\\team-5.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\team-5.jpg"
+    },
+    {
+      "Id": "I:\\Year3\\Application\\2nd sem\\HajurKoCarRental\\wwwroot\\assets\\js\\core\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\core\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "I:\\Year3\\Application\\2nd sem\\HajurKoCarRental\\wwwroot\\assets\\js\\core\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\core\\bootstrap.min.js"
+    },
+    {
+      "Id": "I:\\Year3\\Application\\2nd sem\\HajurKoCarRental\\wwwroot\\assets\\js\\core\\popper.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\core\\popper.min.js"
+    },
+    {
+      "Id": "I:\\Year3\\Application\\2nd sem\\HajurKoCarRental\\wwwroot\\assets\\js\\material-kit.js",
+      "PackagePath": "staticwebassets\\assets\\js\\material-kit.js"
+    },
+    {
+      "Id": "I:\\Year3\\Application\\2nd sem\\HajurKoCarRental\\wwwroot\\assets\\js\\material-kit.js.map",
+      "PackagePath": "staticwebassets\\assets\\js\\material-kit.js.map"
+    },
+    {
+      "Id": "I:\\Year3\\Application\\2nd sem\\HajurKoCarRental\\wwwroot\\assets\\js\\material-kit.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\material-kit.min.js"
+    },
+    {
+      "Id": "I:\\Year3\\Application\\2nd sem\\HajurKoCarRental\\wwwroot\\assets\\js\\plugins\\choices.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\plugins\\choices.min.js"
+    },
+    {
+      "Id": "I:\\Year3\\Application\\2nd sem\\HajurKoCarRental\\wwwroot\\assets\\js\\plugins\\countup.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\plugins\\countup.min.js"
+    },
+    {
+      "Id": "I:\\Year3\\Application\\2nd sem\\HajurKoCarRental\\wwwroot\\assets\\js\\plugins\\flatpickr.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\plugins\\flatpickr.min.js"
+    },
+    {
+      "Id": "I:\\Year3\\Application\\2nd sem\\HajurKoCarRental\\wwwroot\\assets\\js\\plugins\\highlight.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\plugins\\highlight.min.js"
+    },
+    {
+      "Id": "I:\\Year3\\Application\\2nd sem\\HajurKoCarRental\\wwwroot\\assets\\js\\plugins\\moment.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\plugins\\moment.min.js"
+    },
+    {
+      "Id": "I:\\Year3\\Application\\2nd sem\\HajurKoCarRental\\wwwroot\\assets\\js\\plugins\\parallax.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\plugins\\parallax.min.js"
+    },
+    {
+      "Id": "I:\\Year3\\Application\\2nd sem\\HajurKoCarRental\\wwwroot\\assets\\js\\plugins\\perfect-scrollbar.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\plugins\\perfect-scrollbar.min.js"
+    },
+    {
+      "Id": "I:\\Year3\\Application\\2nd sem\\HajurKoCarRental\\wwwroot\\assets\\js\\plugins\\prism.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\plugins\\prism.min.js"
+    },
+    {
+      "Id": "I:\\Year3\\Application\\2nd sem\\HajurKoCarRental\\wwwroot\\assets\\js\\plugins\\rellax.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\plugins\\rellax.min.js"
+    },
+    {
+      "Id": "I:\\Year3\\Application\\2nd sem\\HajurKoCarRental\\wwwroot\\assets\\js\\plugins\\tilt.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\plugins\\tilt.min.js"
+    },
+    {
+      "Id": "I:\\Year3\\Application\\2nd sem\\HajurKoCarRental\\wwwroot\\assets\\js\\plugins\\typedjs.js",
+      "PackagePath": "staticwebassets\\assets\\js\\plugins\\typedjs.js"
+    },
+    {
+      "Id": "I:\\Year3\\Application\\2nd sem\\HajurKoCarRental\\wwwroot\\assets\\scss\\material-kit.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\material-kit.scss"
+    },
+    {
+      "Id": "I:\\Year3\\Application\\2nd sem\\HajurKoCarRental\\wwwroot\\assets\\scss\\material-kit\\_alert.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\material-kit\\_alert.scss"
+    },
+    {
+      "Id": "I:\\Year3\\Application\\2nd sem\\HajurKoCarRental\\wwwroot\\assets\\scss\\material-kit\\_avatars.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\material-kit\\_avatars.scss"
+    },
+    {
+      "Id": "I:\\Year3\\Application\\2nd sem\\HajurKoCarRental\\wwwroot\\assets\\scss\\material-kit\\_badge.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\material-kit\\_badge.scss"
+    },
+    {
+      "Id": "I:\\Year3\\Application\\2nd sem\\HajurKoCarRental\\wwwroot\\assets\\scss\\material-kit\\_breadcrumbs.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\material-kit\\_breadcrumbs.scss"
+    },
+    {
+      "Id": "I:\\Year3\\Application\\2nd sem\\HajurKoCarRental\\wwwroot\\assets\\scss\\material-kit\\_buttons.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\material-kit\\_buttons.scss"
+    },
+    {
+      "Id": "I:\\Year3\\Application\\2nd sem\\HajurKoCarRental\\wwwroot\\assets\\scss\\material-kit\\_cards.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\material-kit\\_cards.scss"
+    },
+    {
+      "Id": "I:\\Year3\\Application\\2nd sem\\HajurKoCarRental\\wwwroot\\assets\\scss\\material-kit\\_dark-version.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\material-kit\\_dark-version.scss"
+    },
+    {
+      "Id": "I:\\Year3\\Application\\2nd sem\\HajurKoCarRental\\wwwroot\\assets\\scss\\material-kit\\_dropdown.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\material-kit\\_dropdown.scss"
+    },
+    {
+      "Id": "I:\\Year3\\Application\\2nd sem\\HajurKoCarRental\\wwwroot\\assets\\scss\\material-kit\\_dropup.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\material-kit\\_dropup.scss"
+    },
+    {
+      "Id": "I:\\Year3\\Application\\2nd sem\\HajurKoCarRental\\wwwroot\\assets\\scss\\material-kit\\_fixed-plugin.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\material-kit\\_fixed-plugin.scss"
+    },
+    {
+      "Id": "I:\\Year3\\Application\\2nd sem\\HajurKoCarRental\\wwwroot\\assets\\scss\\material-kit\\_footer.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\material-kit\\_footer.scss"
+    },
+    {
+      "Id": "I:\\Year3\\Application\\2nd sem\\HajurKoCarRental\\wwwroot\\assets\\scss\\material-kit\\_forms.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\material-kit\\_forms.scss"
+    },
+    {
+      "Id": "I:\\Year3\\Application\\2nd sem\\HajurKoCarRental\\wwwroot\\assets\\scss\\material-kit\\_gradients.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\material-kit\\_gradients.scss"
+    },
+    {
+      "Id": "I:\\Year3\\Application\\2nd sem\\HajurKoCarRental\\wwwroot\\assets\\scss\\material-kit\\_header.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\material-kit\\_header.scss"
+    },
+    {
+      "Id": "I:\\Year3\\Application\\2nd sem\\HajurKoCarRental\\wwwroot\\assets\\scss\\material-kit\\_icons.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\material-kit\\_icons.scss"
+    },
+    {
+      "Id": "I:\\Year3\\Application\\2nd sem\\HajurKoCarRental\\wwwroot\\assets\\scss\\material-kit\\_info-areas.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\material-kit\\_info-areas.scss"
+    },
+    {
+      "Id": "I:\\Year3\\Application\\2nd sem\\HajurKoCarRental\\wwwroot\\assets\\scss\\material-kit\\_misc.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\material-kit\\_misc.scss"
+    },
+    {
+      "Id": "I:\\Year3\\Application\\2nd sem\\HajurKoCarRental\\wwwroot\\assets\\scss\\material-kit\\_nav.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\material-kit\\_nav.scss"
+    },
+    {
+      "Id": "I:\\Year3\\Application\\2nd sem\\HajurKoCarRental\\wwwroot\\assets\\scss\\material-kit\\_navbar-vertical.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\material-kit\\_navbar-vertical.scss"
+    },
+    {
+      "Id": "I:\\Year3\\Application\\2nd sem\\HajurKoCarRental\\wwwroot\\assets\\scss\\material-kit\\_navbar.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\material-kit\\_navbar.scss"
+    },
+    {
+      "Id": "I:\\Year3\\Application\\2nd sem\\HajurKoCarRental\\wwwroot\\assets\\scss\\material-kit\\_pagination.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\material-kit\\_pagination.scss"
+    },
+    {
+      "Id": "I:\\Year3\\Application\\2nd sem\\HajurKoCarRental\\wwwroot\\assets\\scss\\material-kit\\_popovers.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\material-kit\\_popovers.scss"
+    },
+    {
+      "Id": "I:\\Year3\\Application\\2nd sem\\HajurKoCarRental\\wwwroot\\assets\\scss\\material-kit\\_progress.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\material-kit\\_progress.scss"
+    },
+    {
+      "Id": "I:\\Year3\\Application\\2nd sem\\HajurKoCarRental\\wwwroot\\assets\\scss\\material-kit\\_ripple.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\material-kit\\_ripple.scss"
+    },
+    {
+      "Id": "I:\\Year3\\Application\\2nd sem\\HajurKoCarRental\\wwwroot\\assets\\scss\\material-kit\\_rtl.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\material-kit\\_rtl.scss"
+    },
+    {
+      "Id": "I:\\Year3\\Application\\2nd sem\\HajurKoCarRental\\wwwroot\\assets\\scss\\material-kit\\_social-buttons.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\material-kit\\_social-buttons.scss"
+    },
+    {
+      "Id": "I:\\Year3\\Application\\2nd sem\\HajurKoCarRental\\wwwroot\\assets\\scss\\material-kit\\_tables.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\material-kit\\_tables.scss"
+    },
+    {
+      "Id": "I:\\Year3\\Application\\2nd sem\\HajurKoCarRental\\wwwroot\\assets\\scss\\material-kit\\_tilt.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\material-kit\\_tilt.scss"
+    },
+    {
+      "Id": "I:\\Year3\\Application\\2nd sem\\HajurKoCarRental\\wwwroot\\assets\\scss\\material-kit\\_timeline.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\material-kit\\_timeline.scss"
+    },
+    {
+      "Id": "I:\\Year3\\Application\\2nd sem\\HajurKoCarRental\\wwwroot\\assets\\scss\\material-kit\\_tooltips.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\material-kit\\_tooltips.scss"
+    },
+    {
+      "Id": "I:\\Year3\\Application\\2nd sem\\HajurKoCarRental\\wwwroot\\assets\\scss\\material-kit\\_typography.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\material-kit\\_typography.scss"
+    },
+    {
+      "Id": "I:\\Year3\\Application\\2nd sem\\HajurKoCarRental\\wwwroot\\assets\\scss\\material-kit\\_utilities-extend.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\material-kit\\_utilities-extend.scss"
+    },
+    {
+      "Id": "I:\\Year3\\Application\\2nd sem\\HajurKoCarRental\\wwwroot\\assets\\scss\\material-kit\\_utilities.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\material-kit\\_utilities.scss"
+    },
+    {
+      "Id": "I:\\Year3\\Application\\2nd sem\\HajurKoCarRental\\wwwroot\\assets\\scss\\material-kit\\_variables.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\material-kit\\_variables.scss"
+    },
+    {
+      "Id": "I:\\Year3\\Application\\2nd sem\\HajurKoCarRental\\wwwroot\\assets\\scss\\material-kit\\bootstrap\\_accordion.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\material-kit\\bootstrap\\_accordion.scss"
+    },
+    {
+      "Id": "I:\\Year3\\Application\\2nd sem\\HajurKoCarRental\\wwwroot\\assets\\scss\\material-kit\\bootstrap\\_alert.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\material-kit\\bootstrap\\_alert.scss"
+    },
+    {
+      "Id": "I:\\Year3\\Application\\2nd sem\\HajurKoCarRental\\wwwroot\\assets\\scss\\material-kit\\bootstrap\\_badge.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\material-kit\\bootstrap\\_badge.scss"
+    },
+    {
+      "Id": "I:\\Year3\\Application\\2nd sem\\HajurKoCarRental\\wwwroot\\assets\\scss\\material-kit\\bootstrap\\_breadcrumb.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\material-kit\\bootstrap\\_breadcrumb.scss"
+    },
+    {
+      "Id": "I:\\Year3\\Application\\2nd sem\\HajurKoCarRental\\wwwroot\\assets\\scss\\material-kit\\bootstrap\\_button-group.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\material-kit\\bootstrap\\_button-group.scss"
+    },
+    {
+      "Id": "I:\\Year3\\Application\\2nd sem\\HajurKoCarRental\\wwwroot\\assets\\scss\\material-kit\\bootstrap\\_buttons.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\material-kit\\bootstrap\\_buttons.scss"
+    },
+    {
+      "Id": "I:\\Year3\\Application\\2nd sem\\HajurKoCarRental\\wwwroot\\assets\\scss\\material-kit\\bootstrap\\_card.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\material-kit\\bootstrap\\_card.scss"
+    },
+    {
+      "Id": "I:\\Year3\\Application\\2nd sem\\HajurKoCarRental\\wwwroot\\assets\\scss\\material-kit\\bootstrap\\_carousel.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\material-kit\\bootstrap\\_carousel.scss"
+    },
+    {
+      "Id": "I:\\Year3\\Application\\2nd sem\\HajurKoCarRental\\wwwroot\\assets\\scss\\material-kit\\bootstrap\\_close.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\material-kit\\bootstrap\\_close.scss"
+    },
+    {
+      "Id": "I:\\Year3\\Application\\2nd sem\\HajurKoCarRental\\wwwroot\\assets\\scss\\material-kit\\bootstrap\\_containers.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\material-kit\\bootstrap\\_containers.scss"
+    },
+    {
+      "Id": "I:\\Year3\\Application\\2nd sem\\HajurKoCarRental\\wwwroot\\assets\\scss\\material-kit\\bootstrap\\_dropdown.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\material-kit\\bootstrap\\_dropdown.scss"
+    },
+    {
+      "Id": "I:\\Year3\\Application\\2nd sem\\HajurKoCarRental\\wwwroot\\assets\\scss\\material-kit\\bootstrap\\_forms.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\material-kit\\bootstrap\\_forms.scss"
+    },
+    {
+      "Id": "I:\\Year3\\Application\\2nd sem\\HajurKoCarRental\\wwwroot\\assets\\scss\\material-kit\\bootstrap\\_functions.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\material-kit\\bootstrap\\_functions.scss"
+    },
+    {
+      "Id": "I:\\Year3\\Application\\2nd sem\\HajurKoCarRental\\wwwroot\\assets\\scss\\material-kit\\bootstrap\\_grid.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\material-kit\\bootstrap\\_grid.scss"
+    },
+    {
+      "Id": "I:\\Year3\\Application\\2nd sem\\HajurKoCarRental\\wwwroot\\assets\\scss\\material-kit\\bootstrap\\_helpers.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\material-kit\\bootstrap\\_helpers.scss"
+    },
+    {
+      "Id": "I:\\Year3\\Application\\2nd sem\\HajurKoCarRental\\wwwroot\\assets\\scss\\material-kit\\bootstrap\\_images.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\material-kit\\bootstrap\\_images.scss"
+    },
+    {
+      "Id": "I:\\Year3\\Application\\2nd sem\\HajurKoCarRental\\wwwroot\\assets\\scss\\material-kit\\bootstrap\\_list-group.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\material-kit\\bootstrap\\_list-group.scss"
+    },
+    {
+      "Id": "I:\\Year3\\Application\\2nd sem\\HajurKoCarRental\\wwwroot\\assets\\scss\\material-kit\\bootstrap\\_maps.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\material-kit\\bootstrap\\_maps.scss"
+    },
+    {
+      "Id": "I:\\Year3\\Application\\2nd sem\\HajurKoCarRental\\wwwroot\\assets\\scss\\material-kit\\bootstrap\\_mixins.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\material-kit\\bootstrap\\_mixins.scss"
+    },
+    {
+      "Id": "I:\\Year3\\Application\\2nd sem\\HajurKoCarRental\\wwwroot\\assets\\scss\\material-kit\\bootstrap\\_modal.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\material-kit\\bootstrap\\_modal.scss"
+    },
+    {
+      "Id": "I:\\Year3\\Application\\2nd sem\\HajurKoCarRental\\wwwroot\\assets\\scss\\material-kit\\bootstrap\\_nav.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\material-kit\\bootstrap\\_nav.scss"
+    },
+    {
+      "Id": "I:\\Year3\\Application\\2nd sem\\HajurKoCarRental\\wwwroot\\assets\\scss\\material-kit\\bootstrap\\_navbar.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\material-kit\\bootstrap\\_navbar.scss"
+    },
+    {
+      "Id": "I:\\Year3\\Application\\2nd sem\\HajurKoCarRental\\wwwroot\\assets\\scss\\material-kit\\bootstrap\\_offcanvas.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\material-kit\\bootstrap\\_offcanvas.scss"
+    },
+    {
+      "Id": "I:\\Year3\\Application\\2nd sem\\HajurKoCarRental\\wwwroot\\assets\\scss\\material-kit\\bootstrap\\_pagination.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\material-kit\\bootstrap\\_pagination.scss"
+    },
+    {
+      "Id": "I:\\Year3\\Application\\2nd sem\\HajurKoCarRental\\wwwroot\\assets\\scss\\material-kit\\bootstrap\\_placeholders.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\material-kit\\bootstrap\\_placeholders.scss"
+    },
+    {
+      "Id": "I:\\Year3\\Application\\2nd sem\\HajurKoCarRental\\wwwroot\\assets\\scss\\material-kit\\bootstrap\\_popover.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\material-kit\\bootstrap\\_popover.scss"
+    },
+    {
+      "Id": "I:\\Year3\\Application\\2nd sem\\HajurKoCarRental\\wwwroot\\assets\\scss\\material-kit\\bootstrap\\_progress.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\material-kit\\bootstrap\\_progress.scss"
+    },
+    {
+      "Id": "I:\\Year3\\Application\\2nd sem\\HajurKoCarRental\\wwwroot\\assets\\scss\\material-kit\\bootstrap\\_reboot.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\material-kit\\bootstrap\\_reboot.scss"
+    },
+    {
+      "Id": "I:\\Year3\\Application\\2nd sem\\HajurKoCarRental\\wwwroot\\assets\\scss\\material-kit\\bootstrap\\_root.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\material-kit\\bootstrap\\_root.scss"
+    },
+    {
+      "Id": "I:\\Year3\\Application\\2nd sem\\HajurKoCarRental\\wwwroot\\assets\\scss\\material-kit\\bootstrap\\_spinners.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\material-kit\\bootstrap\\_spinners.scss"
+    },
+    {
+      "Id": "I:\\Year3\\Application\\2nd sem\\HajurKoCarRental\\wwwroot\\assets\\scss\\material-kit\\bootstrap\\_tables.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\material-kit\\bootstrap\\_tables.scss"
+    },
+    {
+      "Id": "I:\\Year3\\Application\\2nd sem\\HajurKoCarRental\\wwwroot\\assets\\scss\\material-kit\\bootstrap\\_toasts.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\material-kit\\bootstrap\\_toasts.scss"
+    },
+    {
+      "Id": "I:\\Year3\\Application\\2nd sem\\HajurKoCarRental\\wwwroot\\assets\\scss\\material-kit\\bootstrap\\_tooltip.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\material-kit\\bootstrap\\_tooltip.scss"
+    },
+    {
+      "Id": "I:\\Year3\\Application\\2nd sem\\HajurKoCarRental\\wwwroot\\assets\\scss\\material-kit\\bootstrap\\_transitions.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\material-kit\\bootstrap\\_transitions.scss"
+    },
+    {
+      "Id": "I:\\Year3\\Application\\2nd sem\\HajurKoCarRental\\wwwroot\\assets\\scss\\material-kit\\bootstrap\\_type.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\material-kit\\bootstrap\\_type.scss"
+    },
+    {
+      "Id": "I:\\Year3\\Application\\2nd sem\\HajurKoCarRental\\wwwroot\\assets\\scss\\material-kit\\bootstrap\\_utilities.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\material-kit\\bootstrap\\_utilities.scss"
+    },
+    {
+      "Id": "I:\\Year3\\Application\\2nd sem\\HajurKoCarRental\\wwwroot\\assets\\scss\\material-kit\\bootstrap\\_variables.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\material-kit\\bootstrap\\_variables.scss"
+    },
+    {
+      "Id": "I:\\Year3\\Application\\2nd sem\\HajurKoCarRental\\wwwroot\\assets\\scss\\material-kit\\bootstrap\\bootstrap-grid.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\material-kit\\bootstrap\\bootstrap-grid.scss"
+    },
+    {
+      "Id": "I:\\Year3\\Application\\2nd sem\\HajurKoCarRental\\wwwroot\\assets\\scss\\material-kit\\bootstrap\\bootstrap-reboot.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\material-kit\\bootstrap\\bootstrap-reboot.scss"
+    },
+    {
+      "Id": "I:\\Year3\\Application\\2nd sem\\HajurKoCarRental\\wwwroot\\assets\\scss\\material-kit\\bootstrap\\bootstrap-utilities.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\material-kit\\bootstrap\\bootstrap-utilities.scss"
+    },
+    {
+      "Id": "I:\\Year3\\Application\\2nd sem\\HajurKoCarRental\\wwwroot\\assets\\scss\\material-kit\\bootstrap\\bootstrap.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\material-kit\\bootstrap\\bootstrap.scss"
+    },
+    {
+      "Id": "I:\\Year3\\Application\\2nd sem\\HajurKoCarRental\\wwwroot\\assets\\scss\\material-kit\\bootstrap\\forms\\_floating-labels.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\material-kit\\bootstrap\\forms\\_floating-labels.scss"
+    },
+    {
+      "Id": "I:\\Year3\\Application\\2nd sem\\HajurKoCarRental\\wwwroot\\assets\\scss\\material-kit\\bootstrap\\forms\\_form-check.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\material-kit\\bootstrap\\forms\\_form-check.scss"
+    },
+    {
+      "Id": "I:\\Year3\\Application\\2nd sem\\HajurKoCarRental\\wwwroot\\assets\\scss\\material-kit\\bootstrap\\forms\\_form-control.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\material-kit\\bootstrap\\forms\\_form-control.scss"
+    },
+    {
+      "Id": "I:\\Year3\\Application\\2nd sem\\HajurKoCarRental\\wwwroot\\assets\\scss\\material-kit\\bootstrap\\forms\\_form-range.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\material-kit\\bootstrap\\forms\\_form-range.scss"
+    },
+    {
+      "Id": "I:\\Year3\\Application\\2nd sem\\HajurKoCarRental\\wwwroot\\assets\\scss\\material-kit\\bootstrap\\forms\\_form-select.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\material-kit\\bootstrap\\forms\\_form-select.scss"
+    },
+    {
+      "Id": "I:\\Year3\\Application\\2nd sem\\HajurKoCarRental\\wwwroot\\assets\\scss\\material-kit\\bootstrap\\forms\\_form-text.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\material-kit\\bootstrap\\forms\\_form-text.scss"
+    },
+    {
+      "Id": "I:\\Year3\\Application\\2nd sem\\HajurKoCarRental\\wwwroot\\assets\\scss\\material-kit\\bootstrap\\forms\\_input-group.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\material-kit\\bootstrap\\forms\\_input-group.scss"
+    },
+    {
+      "Id": "I:\\Year3\\Application\\2nd sem\\HajurKoCarRental\\wwwroot\\assets\\scss\\material-kit\\bootstrap\\forms\\_labels.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\material-kit\\bootstrap\\forms\\_labels.scss"
+    },
+    {
+      "Id": "I:\\Year3\\Application\\2nd sem\\HajurKoCarRental\\wwwroot\\assets\\scss\\material-kit\\bootstrap\\forms\\_validation.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\material-kit\\bootstrap\\forms\\_validation.scss"
+    },
+    {
+      "Id": "I:\\Year3\\Application\\2nd sem\\HajurKoCarRental\\wwwroot\\assets\\scss\\material-kit\\bootstrap\\helpers\\_clearfix.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\material-kit\\bootstrap\\helpers\\_clearfix.scss"
+    },
+    {
+      "Id": "I:\\Year3\\Application\\2nd sem\\HajurKoCarRental\\wwwroot\\assets\\scss\\material-kit\\bootstrap\\helpers\\_color-bg.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\material-kit\\bootstrap\\helpers\\_color-bg.scss"
+    },
+    {
+      "Id": "I:\\Year3\\Application\\2nd sem\\HajurKoCarRental\\wwwroot\\assets\\scss\\material-kit\\bootstrap\\helpers\\_colored-links.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\material-kit\\bootstrap\\helpers\\_colored-links.scss"
+    },
+    {
+      "Id": "I:\\Year3\\Application\\2nd sem\\HajurKoCarRental\\wwwroot\\assets\\scss\\material-kit\\bootstrap\\helpers\\_position.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\material-kit\\bootstrap\\helpers\\_position.scss"
+    },
+    {
+      "Id": "I:\\Year3\\Application\\2nd sem\\HajurKoCarRental\\wwwroot\\assets\\scss\\material-kit\\bootstrap\\helpers\\_ratio.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\material-kit\\bootstrap\\helpers\\_ratio.scss"
+    },
+    {
+      "Id": "I:\\Year3\\Application\\2nd sem\\HajurKoCarRental\\wwwroot\\assets\\scss\\material-kit\\bootstrap\\helpers\\_stacks.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\material-kit\\bootstrap\\helpers\\_stacks.scss"
+    },
+    {
+      "Id": "I:\\Year3\\Application\\2nd sem\\HajurKoCarRental\\wwwroot\\assets\\scss\\material-kit\\bootstrap\\helpers\\_stretched-link.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\material-kit\\bootstrap\\helpers\\_stretched-link.scss"
+    },
+    {
+      "Id": "I:\\Year3\\Application\\2nd sem\\HajurKoCarRental\\wwwroot\\assets\\scss\\material-kit\\bootstrap\\helpers\\_text-truncation.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\material-kit\\bootstrap\\helpers\\_text-truncation.scss"
+    },
+    {
+      "Id": "I:\\Year3\\Application\\2nd sem\\HajurKoCarRental\\wwwroot\\assets\\scss\\material-kit\\bootstrap\\helpers\\_visually-hidden.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\material-kit\\bootstrap\\helpers\\_visually-hidden.scss"
+    },
+    {
+      "Id": "I:\\Year3\\Application\\2nd sem\\HajurKoCarRental\\wwwroot\\assets\\scss\\material-kit\\bootstrap\\helpers\\_vr.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\material-kit\\bootstrap\\helpers\\_vr.scss"
+    },
+    {
+      "Id": "I:\\Year3\\Application\\2nd sem\\HajurKoCarRental\\wwwroot\\assets\\scss\\material-kit\\bootstrap\\mixins\\_alert.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\material-kit\\bootstrap\\mixins\\_alert.scss"
+    },
+    {
+      "Id": "I:\\Year3\\Application\\2nd sem\\HajurKoCarRental\\wwwroot\\assets\\scss\\material-kit\\bootstrap\\mixins\\_backdrop.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\material-kit\\bootstrap\\mixins\\_backdrop.scss"
+    },
+    {
+      "Id": "I:\\Year3\\Application\\2nd sem\\HajurKoCarRental\\wwwroot\\assets\\scss\\material-kit\\bootstrap\\mixins\\_border-radius.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\material-kit\\bootstrap\\mixins\\_border-radius.scss"
+    },
+    {
+      "Id": "I:\\Year3\\Application\\2nd sem\\HajurKoCarRental\\wwwroot\\assets\\scss\\material-kit\\bootstrap\\mixins\\_box-shadow.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\material-kit\\bootstrap\\mixins\\_box-shadow.scss"
+    },
+    {
+      "Id": "I:\\Year3\\Application\\2nd sem\\HajurKoCarRental\\wwwroot\\assets\\scss\\material-kit\\bootstrap\\mixins\\_breakpoints.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\material-kit\\bootstrap\\mixins\\_breakpoints.scss"
+    },
+    {
+      "Id": "I:\\Year3\\Application\\2nd sem\\HajurKoCarRental\\wwwroot\\assets\\scss\\material-kit\\bootstrap\\mixins\\_buttons.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\material-kit\\bootstrap\\mixins\\_buttons.scss"
+    },
+    {
+      "Id": "I:\\Year3\\Application\\2nd sem\\HajurKoCarRental\\wwwroot\\assets\\scss\\material-kit\\bootstrap\\mixins\\_caret.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\material-kit\\bootstrap\\mixins\\_caret.scss"
+    },
+    {
+      "Id": "I:\\Year3\\Application\\2nd sem\\HajurKoCarRental\\wwwroot\\assets\\scss\\material-kit\\bootstrap\\mixins\\_clearfix.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\material-kit\\bootstrap\\mixins\\_clearfix.scss"
+    },
+    {
+      "Id": "I:\\Year3\\Application\\2nd sem\\HajurKoCarRental\\wwwroot\\assets\\scss\\material-kit\\bootstrap\\mixins\\_color-scheme.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\material-kit\\bootstrap\\mixins\\_color-scheme.scss"
+    },
+    {
+      "Id": "I:\\Year3\\Application\\2nd sem\\HajurKoCarRental\\wwwroot\\assets\\scss\\material-kit\\bootstrap\\mixins\\_container.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\material-kit\\bootstrap\\mixins\\_container.scss"
+    },
+    {
+      "Id": "I:\\Year3\\Application\\2nd sem\\HajurKoCarRental\\wwwroot\\assets\\scss\\material-kit\\bootstrap\\mixins\\_deprecate.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\material-kit\\bootstrap\\mixins\\_deprecate.scss"
+    },
+    {
+      "Id": "I:\\Year3\\Application\\2nd sem\\HajurKoCarRental\\wwwroot\\assets\\scss\\material-kit\\bootstrap\\mixins\\_forms.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\material-kit\\bootstrap\\mixins\\_forms.scss"
+    },
+    {
+      "Id": "I:\\Year3\\Application\\2nd sem\\HajurKoCarRental\\wwwroot\\assets\\scss\\material-kit\\bootstrap\\mixins\\_gradients.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\material-kit\\bootstrap\\mixins\\_gradients.scss"
+    },
+    {
+      "Id": "I:\\Year3\\Application\\2nd sem\\HajurKoCarRental\\wwwroot\\assets\\scss\\material-kit\\bootstrap\\mixins\\_grid.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\material-kit\\bootstrap\\mixins\\_grid.scss"
+    },
+    {
+      "Id": "I:\\Year3\\Application\\2nd sem\\HajurKoCarRental\\wwwroot\\assets\\scss\\material-kit\\bootstrap\\mixins\\_image.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\material-kit\\bootstrap\\mixins\\_image.scss"
+    },
+    {
+      "Id": "I:\\Year3\\Application\\2nd sem\\HajurKoCarRental\\wwwroot\\assets\\scss\\material-kit\\bootstrap\\mixins\\_list-group.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\material-kit\\bootstrap\\mixins\\_list-group.scss"
+    },
+    {
+      "Id": "I:\\Year3\\Application\\2nd sem\\HajurKoCarRental\\wwwroot\\assets\\scss\\material-kit\\bootstrap\\mixins\\_lists.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\material-kit\\bootstrap\\mixins\\_lists.scss"
+    },
+    {
+      "Id": "I:\\Year3\\Application\\2nd sem\\HajurKoCarRental\\wwwroot\\assets\\scss\\material-kit\\bootstrap\\mixins\\_pagination.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\material-kit\\bootstrap\\mixins\\_pagination.scss"
+    },
+    {
+      "Id": "I:\\Year3\\Application\\2nd sem\\HajurKoCarRental\\wwwroot\\assets\\scss\\material-kit\\bootstrap\\mixins\\_reset-text.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\material-kit\\bootstrap\\mixins\\_reset-text.scss"
+    },
+    {
+      "Id": "I:\\Year3\\Application\\2nd sem\\HajurKoCarRental\\wwwroot\\assets\\scss\\material-kit\\bootstrap\\mixins\\_resize.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\material-kit\\bootstrap\\mixins\\_resize.scss"
+    },
+    {
+      "Id": "I:\\Year3\\Application\\2nd sem\\HajurKoCarRental\\wwwroot\\assets\\scss\\material-kit\\bootstrap\\mixins\\_table-variants.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\material-kit\\bootstrap\\mixins\\_table-variants.scss"
+    },
+    {
+      "Id": "I:\\Year3\\Application\\2nd sem\\HajurKoCarRental\\wwwroot\\assets\\scss\\material-kit\\bootstrap\\mixins\\_text-truncate.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\material-kit\\bootstrap\\mixins\\_text-truncate.scss"
+    },
+    {
+      "Id": "I:\\Year3\\Application\\2nd sem\\HajurKoCarRental\\wwwroot\\assets\\scss\\material-kit\\bootstrap\\mixins\\_transition.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\material-kit\\bootstrap\\mixins\\_transition.scss"
+    },
+    {
+      "Id": "I:\\Year3\\Application\\2nd sem\\HajurKoCarRental\\wwwroot\\assets\\scss\\material-kit\\bootstrap\\mixins\\_utilities.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\material-kit\\bootstrap\\mixins\\_utilities.scss"
+    },
+    {
+      "Id": "I:\\Year3\\Application\\2nd sem\\HajurKoCarRental\\wwwroot\\assets\\scss\\material-kit\\bootstrap\\mixins\\_visually-hidden.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\material-kit\\bootstrap\\mixins\\_visually-hidden.scss"
+    },
+    {
+      "Id": "I:\\Year3\\Application\\2nd sem\\HajurKoCarRental\\wwwroot\\assets\\scss\\material-kit\\bootstrap\\utilities\\_api.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\material-kit\\bootstrap\\utilities\\_api.scss"
+    },
+    {
+      "Id": "I:\\Year3\\Application\\2nd sem\\HajurKoCarRental\\wwwroot\\assets\\scss\\material-kit\\bootstrap\\vendor\\_rfs.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\material-kit\\bootstrap\\vendor\\_rfs.scss"
+    },
+    {
+      "Id": "I:\\Year3\\Application\\2nd sem\\HajurKoCarRental\\wwwroot\\assets\\scss\\material-kit\\cards\\card-background.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\material-kit\\cards\\card-background.scss"
+    },
+    {
+      "Id": "I:\\Year3\\Application\\2nd sem\\HajurKoCarRental\\wwwroot\\assets\\scss\\material-kit\\cards\\card-rotate.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\material-kit\\cards\\card-rotate.scss"
+    },
+    {
+      "Id": "I:\\Year3\\Application\\2nd sem\\HajurKoCarRental\\wwwroot\\assets\\scss\\material-kit\\custom\\_styles.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\material-kit\\custom\\_styles.scss"
+    },
+    {
+      "Id": "I:\\Year3\\Application\\2nd sem\\HajurKoCarRental\\wwwroot\\assets\\scss\\material-kit\\custom\\_variables.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\material-kit\\custom\\_variables.scss"
+    },
+    {
+      "Id": "I:\\Year3\\Application\\2nd sem\\HajurKoCarRental\\wwwroot\\assets\\scss\\material-kit\\forms\\_form-check.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\material-kit\\forms\\_form-check.scss"
+    },
+    {
+      "Id": "I:\\Year3\\Application\\2nd sem\\HajurKoCarRental\\wwwroot\\assets\\scss\\material-kit\\forms\\_form-select.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\material-kit\\forms\\_form-select.scss"
+    },
+    {
+      "Id": "I:\\Year3\\Application\\2nd sem\\HajurKoCarRental\\wwwroot\\assets\\scss\\material-kit\\forms\\_form-switch.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\material-kit\\forms\\_form-switch.scss"
+    },
+    {
+      "Id": "I:\\Year3\\Application\\2nd sem\\HajurKoCarRental\\wwwroot\\assets\\scss\\material-kit\\forms\\_forms.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\material-kit\\forms\\_forms.scss"
+    },
+    {
+      "Id": "I:\\Year3\\Application\\2nd sem\\HajurKoCarRental\\wwwroot\\assets\\scss\\material-kit\\forms\\_input-group.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\material-kit\\forms\\_input-group.scss"
+    },
+    {
+      "Id": "I:\\Year3\\Application\\2nd sem\\HajurKoCarRental\\wwwroot\\assets\\scss\\material-kit\\forms\\_inputs.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\material-kit\\forms\\_inputs.scss"
+    },
+    {
+      "Id": "I:\\Year3\\Application\\2nd sem\\HajurKoCarRental\\wwwroot\\assets\\scss\\material-kit\\forms\\_labels.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\material-kit\\forms\\_labels.scss"
+    },
+    {
+      "Id": "I:\\Year3\\Application\\2nd sem\\HajurKoCarRental\\wwwroot\\assets\\scss\\material-kit\\mixins\\_badge.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\material-kit\\mixins\\_badge.scss"
+    },
+    {
+      "Id": "I:\\Year3\\Application\\2nd sem\\HajurKoCarRental\\wwwroot\\assets\\scss\\material-kit\\mixins\\_buttons.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\material-kit\\mixins\\_buttons.scss"
+    },
+    {
+      "Id": "I:\\Year3\\Application\\2nd sem\\HajurKoCarRental\\wwwroot\\assets\\scss\\material-kit\\mixins\\_colored-shadows.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\material-kit\\mixins\\_colored-shadows.scss"
+    },
+    {
+      "Id": "I:\\Year3\\Application\\2nd sem\\HajurKoCarRental\\wwwroot\\assets\\scss\\material-kit\\mixins\\_hover.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\material-kit\\mixins\\_hover.scss"
+    },
+    {
+      "Id": "I:\\Year3\\Application\\2nd sem\\HajurKoCarRental\\wwwroot\\assets\\scss\\material-kit\\mixins\\_social-buttons.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\material-kit\\mixins\\_social-buttons.scss"
+    },
+    {
+      "Id": "I:\\Year3\\Application\\2nd sem\\HajurKoCarRental\\wwwroot\\assets\\scss\\material-kit\\mixins\\_vendor.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\material-kit\\mixins\\_vendor.scss"
+    },
+    {
+      "Id": "I:\\Year3\\Application\\2nd sem\\HajurKoCarRental\\wwwroot\\assets\\scss\\material-kit\\mixins\\mixins.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\material-kit\\mixins\\mixins.scss"
+    },
+    {
+      "Id": "I:\\Year3\\Application\\2nd sem\\HajurKoCarRental\\wwwroot\\assets\\scss\\material-kit\\plugins\\free\\_flatpickr.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\material-kit\\plugins\\free\\_flatpickr.scss"
+    },
+    {
+      "Id": "I:\\Year3\\Application\\2nd sem\\HajurKoCarRental\\wwwroot\\assets\\scss\\material-kit\\plugins\\free\\_nouislider.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\material-kit\\plugins\\free\\_nouislider.scss"
+    },
+    {
+      "Id": "I:\\Year3\\Application\\2nd sem\\HajurKoCarRental\\wwwroot\\assets\\scss\\material-kit\\plugins\\free\\_perfect-scrollbar.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\material-kit\\plugins\\free\\_perfect-scrollbar.scss"
+    },
+    {
+      "Id": "I:\\Year3\\Application\\2nd sem\\HajurKoCarRental\\wwwroot\\assets\\scss\\material-kit\\plugins\\free\\_prism.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\material-kit\\plugins\\free\\_prism.scss"
+    },
+    {
+      "Id": "I:\\Year3\\Application\\2nd sem\\HajurKoCarRental\\wwwroot\\assets\\scss\\material-kit\\plugins\\free\\plugins.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\material-kit\\plugins\\free\\plugins.scss"
+    },
+    {
+      "Id": "I:\\Year3\\Application\\2nd sem\\HajurKoCarRental\\wwwroot\\assets\\scss\\material-kit\\theme.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\material-kit\\theme.scss"
+    },
+    {
+      "Id": "I:\\Year3\\Application\\2nd sem\\HajurKoCarRental\\wwwroot\\assets\\scss\\material-kit\\variables\\_animations.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\material-kit\\variables\\_animations.scss"
+    },
+    {
+      "Id": "I:\\Year3\\Application\\2nd sem\\HajurKoCarRental\\wwwroot\\assets\\scss\\material-kit\\variables\\_avatars.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\material-kit\\variables\\_avatars.scss"
+    },
+    {
+      "Id": "I:\\Year3\\Application\\2nd sem\\HajurKoCarRental\\wwwroot\\assets\\scss\\material-kit\\variables\\_badge.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\material-kit\\variables\\_badge.scss"
+    },
+    {
+      "Id": "I:\\Year3\\Application\\2nd sem\\HajurKoCarRental\\wwwroot\\assets\\scss\\material-kit\\variables\\_breadcrumb.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\material-kit\\variables\\_breadcrumb.scss"
+    },
+    {
+      "Id": "I:\\Year3\\Application\\2nd sem\\HajurKoCarRental\\wwwroot\\assets\\scss\\material-kit\\variables\\_cards-extend.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\material-kit\\variables\\_cards-extend.scss"
+    },
+    {
+      "Id": "I:\\Year3\\Application\\2nd sem\\HajurKoCarRental\\wwwroot\\assets\\scss\\material-kit\\variables\\_cards.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\material-kit\\variables\\_cards.scss"
+    },
+    {
+      "Id": "I:\\Year3\\Application\\2nd sem\\HajurKoCarRental\\wwwroot\\assets\\scss\\material-kit\\variables\\_choices.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\material-kit\\variables\\_choices.scss"
+    },
+    {
+      "Id": "I:\\Year3\\Application\\2nd sem\\HajurKoCarRental\\wwwroot\\assets\\scss\\material-kit\\variables\\_dark-version.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\material-kit\\variables\\_dark-version.scss"
+    },
+    {
+      "Id": "I:\\Year3\\Application\\2nd sem\\HajurKoCarRental\\wwwroot\\assets\\scss\\material-kit\\variables\\_dropdowns.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\material-kit\\variables\\_dropdowns.scss"
+    },
+    {
+      "Id": "I:\\Year3\\Application\\2nd sem\\HajurKoCarRental\\wwwroot\\assets\\scss\\material-kit\\variables\\_fixed-plugin.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\material-kit\\variables\\_fixed-plugin.scss"
+    },
+    {
+      "Id": "I:\\Year3\\Application\\2nd sem\\HajurKoCarRental\\wwwroot\\assets\\scss\\material-kit\\variables\\_form-switch.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\material-kit\\variables\\_form-switch.scss"
+    },
+    {
+      "Id": "I:\\Year3\\Application\\2nd sem\\HajurKoCarRental\\wwwroot\\assets\\scss\\material-kit\\variables\\_full-calendar.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\material-kit\\variables\\_full-calendar.scss"
+    },
+    {
+      "Id": "I:\\Year3\\Application\\2nd sem\\HajurKoCarRental\\wwwroot\\assets\\scss\\material-kit\\variables\\_header.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\material-kit\\variables\\_header.scss"
+    },
+    {
+      "Id": "I:\\Year3\\Application\\2nd sem\\HajurKoCarRental\\wwwroot\\assets\\scss\\material-kit\\variables\\_info-areas.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\material-kit\\variables\\_info-areas.scss"
+    },
+    {
+      "Id": "I:\\Year3\\Application\\2nd sem\\HajurKoCarRental\\wwwroot\\assets\\scss\\material-kit\\variables\\_misc-extend.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\material-kit\\variables\\_misc-extend.scss"
+    },
+    {
+      "Id": "I:\\Year3\\Application\\2nd sem\\HajurKoCarRental\\wwwroot\\assets\\scss\\material-kit\\variables\\_misc.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\material-kit\\variables\\_misc.scss"
+    },
+    {
+      "Id": "I:\\Year3\\Application\\2nd sem\\HajurKoCarRental\\wwwroot\\assets\\scss\\material-kit\\variables\\_navbar-vertical.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\material-kit\\variables\\_navbar-vertical.scss"
+    },
+    {
+      "Id": "I:\\Year3\\Application\\2nd sem\\HajurKoCarRental\\wwwroot\\assets\\scss\\material-kit\\variables\\_navbar.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\material-kit\\variables\\_navbar.scss"
+    },
+    {
+      "Id": "I:\\Year3\\Application\\2nd sem\\HajurKoCarRental\\wwwroot\\assets\\scss\\material-kit\\variables\\_pagination.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\material-kit\\variables\\_pagination.scss"
+    },
+    {
+      "Id": "I:\\Year3\\Application\\2nd sem\\HajurKoCarRental\\wwwroot\\assets\\scss\\material-kit\\variables\\_ripple.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\material-kit\\variables\\_ripple.scss"
+    },
+    {
+      "Id": "I:\\Year3\\Application\\2nd sem\\HajurKoCarRental\\wwwroot\\assets\\scss\\material-kit\\variables\\_rtl.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\material-kit\\variables\\_rtl.scss"
+    },
+    {
+      "Id": "I:\\Year3\\Application\\2nd sem\\HajurKoCarRental\\wwwroot\\assets\\scss\\material-kit\\variables\\_social-buttons.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\material-kit\\variables\\_social-buttons.scss"
+    },
+    {
+      "Id": "I:\\Year3\\Application\\2nd sem\\HajurKoCarRental\\wwwroot\\assets\\scss\\material-kit\\variables\\_table.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\material-kit\\variables\\_table.scss"
+    },
+    {
+      "Id": "I:\\Year3\\Application\\2nd sem\\HajurKoCarRental\\wwwroot\\assets\\scss\\material-kit\\variables\\_timeline.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\material-kit\\variables\\_timeline.scss"
+    },
+    {
+      "Id": "I:\\Year3\\Application\\2nd sem\\HajurKoCarRental\\wwwroot\\assets\\scss\\material-kit\\variables\\_utilities-extend.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\material-kit\\variables\\_utilities-extend.scss"
+    },
+    {
+      "Id": "I:\\Year3\\Application\\2nd sem\\HajurKoCarRental\\wwwroot\\assets\\scss\\material-kit\\variables\\_utilities.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\material-kit\\variables\\_utilities.scss"
+    },
+    {
+      "Id": "I:\\Year3\\Application\\2nd sem\\HajurKoCarRental\\wwwroot\\assets\\scss\\material-kit\\variables\\_virtual-reality.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\material-kit\\variables\\_virtual-reality.scss"
+    },
+    {
+      "Id": "I:\\Year3\\Application\\2nd sem\\HajurKoCarRental\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "I:\\Year3\\Application\\2nd sem\\HajurKoCarRental\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "I:\\Year3\\Application\\2nd sem\\HajurKoCarRental\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "I:\\Year3\\Application\\2nd sem\\HajurKoCarRental\\wwwroot\\lambo.jpg",
+      "PackagePath": "staticwebassets\\lambo.jpg"
+    },
+    {
+      "Id": "I:\\Year3\\Application\\2nd sem\\HajurKoCarRental\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "I:\\Year3\\Application\\2nd sem\\HajurKoCarRental\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "I:\\Year3\\Application\\2nd sem\\HajurKoCarRental\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "I:\\Year3\\Application\\2nd sem\\HajurKoCarRental\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "I:\\Year3\\Application\\2nd sem\\HajurKoCarRental\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "I:\\Year3\\Application\\2nd sem\\HajurKoCarRental\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "I:\\Year3\\Application\\2nd sem\\HajurKoCarRental\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "I:\\Year3\\Application\\2nd sem\\HajurKoCarRental\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "I:\\Year3\\Application\\2nd sem\\HajurKoCarRental\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "I:\\Year3\\Application\\2nd sem\\HajurKoCarRental\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "I:\\Year3\\Application\\2nd sem\\HajurKoCarRental\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "I:\\Year3\\Application\\2nd sem\\HajurKoCarRental\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "I:\\Year3\\Application\\2nd sem\\HajurKoCarRental\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "I:\\Year3\\Application\\2nd sem\\HajurKoCarRental\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "I:\\Year3\\Application\\2nd sem\\HajurKoCarRental\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "I:\\Year3\\Application\\2nd sem\\HajurKoCarRental\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "I:\\Year3\\Application\\2nd sem\\HajurKoCarRental\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "I:\\Year3\\Application\\2nd sem\\HajurKoCarRental\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "I:\\Year3\\Application\\2nd sem\\HajurKoCarRental\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "I:\\Year3\\Application\\2nd sem\\HajurKoCarRental\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "I:\\Year3\\Application\\2nd sem\\HajurKoCarRental\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "I:\\Year3\\Application\\2nd sem\\HajurKoCarRental\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "I:\\Year3\\Application\\2nd sem\\HajurKoCarRental\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "I:\\Year3\\Application\\2nd sem\\HajurKoCarRental\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "I:\\Year3\\Application\\2nd sem\\HajurKoCarRental\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "I:\\Year3\\Application\\2nd sem\\HajurKoCarRental\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "I:\\Year3\\Application\\2nd sem\\HajurKoCarRental\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "I:\\Year3\\Application\\2nd sem\\HajurKoCarRental\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "I:\\Year3\\Application\\2nd sem\\HajurKoCarRental\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "I:\\Year3\\Application\\2nd sem\\HajurKoCarRental\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "I:\\Year3\\Application\\2nd sem\\HajurKoCarRental\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "I:\\Year3\\Application\\2nd sem\\HajurKoCarRental\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "I:\\Year3\\Application\\2nd sem\\HajurKoCarRental\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "I:\\Year3\\Application\\2nd sem\\HajurKoCarRental\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "I:\\Year3\\Application\\2nd sem\\HajurKoCarRental\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "I:\\Year3\\Application\\2nd sem\\HajurKoCarRental\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "I:\\Year3\\Application\\2nd sem\\HajurKoCarRental\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "I:\\Year3\\Application\\2nd sem\\HajurKoCarRental\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "I:\\Year3\\Application\\2nd sem\\HajurKoCarRental\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "I:\\Year3\\Application\\2nd sem\\HajurKoCarRental\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "I:\\Year3\\Application\\2nd sem\\HajurKoCarRental\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "I:\\Year3\\Application\\2nd sem\\HajurKoCarRental\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "I:\\Year3\\Application\\2nd sem\\HajurKoCarRental\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "I:\\Year3\\Application\\2nd sem\\HajurKoCarRental\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "I:\\Year3\\Application\\2nd sem\\HajurKoCarRental\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "I:\\Year3\\Application\\2nd sem\\HajurKoCarRental\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "I:\\Year3\\Application\\2nd sem\\HajurKoCarRental\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "I:\\Year3\\Application\\2nd sem\\HajurKoCarRental\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "I:\\Year3\\Application\\2nd sem\\HajurKoCarRental\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "I:\\Year3\\Application\\2nd sem\\HajurKoCarRental\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "I:\\Year3\\Application\\2nd sem\\HajurKoCarRental\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "I:\\Year3\\Application\\2nd sem\\HajurKoCarRental\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "I:\\Year3\\Application\\2nd sem\\HajurKoCarRental\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "I:\\Year3\\Application\\2nd sem\\HajurKoCarRental\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "I:\\Year3\\Application\\2nd sem\\HajurKoCarRental\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "I:\\Year3\\Application\\2nd sem\\HajurKoCarRental\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "I:\\Year3\\Application\\2nd sem\\HajurKoCarRental\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.HajurKoCarRental.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.HajurKoCarRental.props",
+      "PackagePath": "build\\HajurKoCarRental.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.HajurKoCarRental.props",
+      "PackagePath": "buildMultiTargeting\\HajurKoCarRental.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.HajurKoCarRental.props",
+      "PackagePath": "buildTransitive\\HajurKoCarRental.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
